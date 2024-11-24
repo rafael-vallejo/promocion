@@ -7,7 +7,7 @@ public class Main {
 		
 		System.out.println("Promo IP");
 		
-		String nombre = "Rafael";
+		String nombre = "Rafael Vallejo";
 		
 
 	}
